@@ -1,16 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096072211_Show-TV.jpg" group-title="Ulusal",SHOW
-https://cdn-eu.tivimivi.com/streams/109/master.m3u8
+https://live.glturk.workers.dev/?ID=https://www.showtv.com.tr/canli-yayin
 #EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096081490_TRT-1.jpg" group-title="Ulusal",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096090774_Kanal-D.jpg" group-title="Ulusal",KANAL D
-https://cdn-eu.tivimivi.com/streams/113/master.m3u8
+https://live.glturk.workers.dev/?ID=https://www.kanald.com.tr/canli-yayin
 #EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096099209_ATV.jpg" group-title="Ulusal",ATV
 https://cdn-eu.tivimivi.com/streams/121/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096109639_NOW.jpg" group-title="Ulusal",NOW
 https://live.glturk.workers.dev/?ID=https://www.nowtv.com.tr/canli-yayin
 #EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096119020_Star-TV.jpg" group-title="Ulusal",STAR
 https://cdn-eu.tivimivi.com/streams/118/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/ae/Tv2_logo_%282026%29.png" group-title="Ulusal",Teve2
+https://live.glturk.workers.dev/?ID=https://www.tv2.com.tr/canli-yayin
 #EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096128670_TV-8.jpg" group-title="Ulusal",TV8
 https://cdn-eu.tivimivi.com/streams/107/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096135976_CNBC-E.jpg" group-title="Haber",CNBC-E
@@ -20,13 +22,13 @@ https://cdn-eu.tivimivi.com/streams/115/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096160516_DMAX.jpg" group-title="Belgesel",DMAX
 https://cdn-eu.tivimivi.com/streams/119/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096167580_Show-Max.jpg" group-title="Ulusal",SHOW MAX
-https://cdn-eu.tivimivi.com/streams/112/master.m3u8
+https://live.glturk.workers.dev/?ID=https://www.showmax.com.tr/canliyayin
 #EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096185923_TV-100.jpg" group-title="Haber",TV100
 https://cdn-eu.tivimivi.com/streams/116/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096143695_Bloomberg-HT.jpg" group-title="Haber",Bloomberg HT
 https://cdn-eu.tivimivi.com/streams/111/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096195161_NTV.jpg" group-title="Haber",NTV
-https://cdn-eu.tivimivi.com/streams/128/master.m3u8
+https://live.glturk.workers.dev/?ID=https://puhutv.com/ntv-canli-yayin
 #EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096206858_CNN-Turk.jpg" group-title="Haber",CNN Türk
 https://cdn-eu.tivimivi.com/streams/114/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096214046_A-Haber.jpg" group-title="Haber",A Haber
