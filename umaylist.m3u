@@ -55,8 +55,6 @@ https://cdn-eu.tivimivi.com/streams//master.m3u8
 https://cdn-eu.tivimivi.com/streams//master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096516888_A-Spor.jpg" group-title="Spor",A Spor
 https://cdn-eu.tivimivi.com/streams/122/master.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096151339_TV-8,5.jpg" group-title="Spor",TV 8.5
-https://cdn-eu.tivimivi.com/streams//master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096529228_Enerji.jpg" group-title="Muzik",Enerji 93.1 HD
 https://cdn-eu.tivimivi.com/streams/136/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096541153_Enerji-Slow.jpg" group-title="Muzik",Enerji Slow
