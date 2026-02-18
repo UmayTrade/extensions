@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096072211_Show-TV.jpg" group-title="Ulusal",SHOW
 https://cdn-eu.tivimivi.com/streams/109/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096081490_TRT-1.jpg" group-title="Ulusal",TRT 1
-https://cdn-eu.tivimivi.com/streams/153/master.m3u8
+https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096090774_Kanal-D.jpg" group-title="Ulusal",KANAL D
 https://cdn-eu.tivimivi.com/streams/113/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096099209_ATV.jpg" group-title="Ulusal",ATV
