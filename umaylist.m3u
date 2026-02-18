@@ -8,7 +8,7 @@ https://cdn-eu.tivimivi.com/streams/113/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096099209_ATV.jpg" group-title="Ulusal",ATV
 https://cdn-eu.tivimivi.com/streams/121/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096109639_NOW.jpg" group-title="Ulusal",NOW
-https://dsmartgo-live.ercdn.net/dsmartgo/foxtv/foxtv.isml/foxtv-audio_tur=96000-video=3000000.m3u8
+https://live.glturk.workers.dev/?ID=https://www.nowtv.com.tr/canli-yayin
 #EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096119020_Star-TV.jpg" group-title="Ulusal",STAR
 https://cdn-eu.tivimivi.com/streams/118/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096128670_TV-8.jpg" group-title="Ulusal",TV8
