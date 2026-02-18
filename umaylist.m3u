@@ -17,7 +17,7 @@ https://cdn-eu.tivimivi.com/streams/107/master.m3u8
 https://cdn-eu.tivimivi.com/streams/120/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096174898_TLC.jpg" group-title="Belgesel",TLC
 https://cdn-eu.tivimivi.com/streams/115/master.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096151339_TV-8,5.jpg" group-title="Sports",TV 8,5
+#EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096151339_TV-8,5.jpg" group-title="Spor",TV 8,5
 https://cdn-eu.tivimivi.com/streams//master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-eu.tivimivi.com/images//channels/1724096160516_DMAX.jpg" group-title="Belgesel",DMAX
 https://cdn-eu.tivimivi.com/streams/119/master.m3u8
