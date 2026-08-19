@@ -1,19 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ht5zw7K/4c708e18-6566-4328-8904-af048a32a994-removebg-preview.png" group-title="ULUSAL KANALLAR",F MAX
 http://162.212.179.32/akamaissh101/ssh101/kanalfmax/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvhjs40g/default-logo-copy.png" group-title="ULUSAL KANALLAR",FUSİON TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Fusion_TV_2013_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="ULUSAL KANALLAR",FUSİON TV
 http://162.212.179.32/akamaissh101/ssh101/084952510aa/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rz2TGRSr/Show-TV-logo-svg.webp" group-title="ULUSAL KANALLAR",SHOW TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Show_TV_logo.svg/250px-Show_TV_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="ULUSAL KANALLAR",SHOW TV
 https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=88iye2ldl2ew&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5t2XQD4g/atv-logo.png" group-title="ULUSAL KANALLAR",ATV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/960px-Atv_logo_2010.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20220324094234" group-title="ULUSAL KANALLAR",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4YhGStZ/Star-TV.png" group-title="ULUSAL KANALLAR",STAR TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/92/Star_TV_.png" group-title="ULUSAL KANALLAR",STAR TV
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=88jhb6leqiih&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fW9Jdcsz/TRT-1-logo-(2012-2021).png" group-title="ULUSAL KANALLAR",TRT1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original" group-title="ULUSAL KANALLAR",TRT1
 https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=8aa3uppo48h8&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QJM21dZ/20240406161353-Kanal-D.png" group-title="ULUSAL KANALLAR",KANAL D
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/4/4e/20240406161353%21Kanal_D.png" group-title="ULUSAL KANALLAR",KANAL D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJsfy7Hn/NOW-TV-(Turkey)-wordmark-red-svg.webp" group-title="ULUSAL KANALLAR",NOW
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/960px-NOW_TV_%28Turkey%29_wordmark-red.svg.png?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="ULUSAL KANALLAR",NOW
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7gNKxzY/367-3675294-kanal-7-avrupa-logo-hd-png-download-removebg-preview.png" group-title="ULUSAL KANALLAR",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
